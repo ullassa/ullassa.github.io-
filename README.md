@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! 🚀 This project showcases my journey
 
 📂 Project Structure
 
-HTML: Core structure of the website.
+HTML: Core structure of the website
 
 CSS: Styling and layout, including a dark-themed design.
 
