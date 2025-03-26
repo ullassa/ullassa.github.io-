@@ -1,62 +1,25 @@
-# ullassa.github.io-
-Ullas S A - Portfolio Website
+Hi 👋, I'm Ullas S A  
+A passionate Frontend Developer and Computer Science Student from India  
 
-Welcome to my personal portfolio website! 🚀 This project showcases my journey, skills, and the projects I’ve worked on as a Computer Science and Engineering student at VTU.
+🌱 I’m currently learning Java, DSA, and Frontend Development  
+💼 Intern at CodSoft & InternPe  
+📌 Notable Project: Animal Herd Welfare Management (Published in a newspaper)  
+🎯 Goal: Become a Full Stack Developer & Secure a Job  
 
-📂 Project Structure
+📫 How to reach me:  
+- Email: ullas200410@gmail.com  
+- LinkedIn: [Your LinkedIn Profile]  
+- GitHub: [Your GitHub Profile]  
 
-HTML: Core structure of the website
+🚀 Languages & Tools I Use:  
+- JavaScript, HTML, CSS, Tailwind  
+- React, Node.js  
+- Python, Java  
+- Git, GitHub  
 
-CSS: Styling and layout, including a dark-themed design.
+📊 GitHub Stats:  
+- Total Commits: [Your Commit Count]  
+- Total PRs: [Your PR Count]  
+- Total Issues: [Your Issue Count]  
 
-JavaScript: Handles navigation and form validation.
-
-🛠️ Technologies Used
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Google Fonts (Poppins)
-
-GitHub Pages (for hosting)
-
-🧑‍💻 Sections
-
-About Me: Introduction and career aspirations.
-
-Resume: Education and internship details.
-
-Projects: Notable works like Animal Herd Welfare Management.
-
-Skills: List of technologies and tools I’m familiar with.
-
-Contact: A form to reach out to me directly.
-
-📄 How to View the Site
-
-Clone the repository:
-
-git clone https://github.com/username/portfolio-website.git
-
-Navigate to the folder:
-
-cd portfolio-website
-
-Open index.html in a browser.
-
-Or view it live via GitHub Pages!
-
-📬 Contact
-
-Email: ullas200410@gmail.com
-
-LinkedIn: Your LinkedIn Profile
-
-GitHub: Your GitHub Profile
-
-Feel free to contribute or give feedback! 😊
-
-Designed and developed with ❤️ by Ullas S A
+Feel free to explore my repositories and connect with me! 😊  
